@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#pagina1{
+    background-color: blueviolet;
+    width: auto;
+    height: 650px;
+    display: block;
+}
+article h1{
+    text-align: center;
+    font-size: 30px;font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+article h2{
+margin-top: 30px;
+text-align: center;
+}
+article h3{
+margin-top: 20px;
+text-align: center;
+}
+article p{
+margin-top: 20px;
+text-align: center;
+}
