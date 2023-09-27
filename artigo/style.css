@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 .header_container{
     width: 1248px;
     height: 56px;
@@ -6,6 +11,7 @@
     padding-right: 16px;
     padding-top: 0px;
     background-color: #323639;
+    box-shadow: 0px 0px 5px 0px black;
 }
 
 .inicial_header {
@@ -34,4 +40,52 @@
     white-space: nowrap;
 }
 
-    
+.numeropagina{
+    color: white;
+    font-size: 13.92px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 18px;
+}
+
+#gosmadiv{
+    margin-left: 300px;
+    background-color: black;
+    padding: 5px 7px 5px 7px;
+    height: 15px;
+    margin-bottom: 17px;
+    margin-right: 2px;
+}
+
+#porcentagem{
+    color: white;
+    margin-left: 15px;
+    margin-bottom: 17px;
+    background-color: black;
+    padding: 3px;
+}
+
+.barra{
+    color: gray;
+    margin-left: 15px;
+    margin-bottom: 20px;
+}
+
+#sinalmais{
+    color: white;
+    margin-left: 15px;
+    font-size: 26px;
+    margin-bottom: 20px;
+}
+
+#sinalmenos{
+    color: white;
+    margin-left: 15px;
+    font-size: 26px;
+    margin-bottom: 45px;
+}
+
+#imgheader{
+    height: 33px;
+    width: auto;
+    margin-bottom: 20px;
+}
