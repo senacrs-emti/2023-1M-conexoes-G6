@@ -7,7 +7,14 @@
 #pagina1{
     background-color: blueviolet;
     width: auto;
-    height: 650px;
+    height: 900px;
+    display: block;
+}
+
+#pagina2{
+    background-color: #fafafa;
+    width: auto;
+    height: 900px;
     display: block;
 }
 article h1{
@@ -27,5 +34,45 @@ article p{
 margin-top: 20px;
 text-align: center;
 }
+
+
+body {
+    background-color: #58545c;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container_pag1{
+    background-color: blueviolet;
+    margin: 14px;
+    max-width: 800px;
+    width: 100%;;
+    overflow: hidden;
+}
+
+.container_pag2{
+    background-color: #fafafa;
+    border-radius: 14px;
+    margin: 14px;
+    max-width: 800px;
+    width: 100%;
+    box-sizing: 0px 3px 5px rgba(0,0,0, 0,5);
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.container_pag1{
+    background-color: #fafafa;
+    border-radius: 14px;
+    margin: 14px;
+    max-width: 800px;
+    width: 100%;
+    box-sizing: 0px 3px 5px rgba(0,0,0, 0,5);
+    overflow: hidden;
+}
+
 
 
