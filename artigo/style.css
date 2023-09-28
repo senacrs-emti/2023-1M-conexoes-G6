@@ -1,11 +1,11 @@
 
 *{
-    margin: 0;
+    margin: 30px;
     padding: 0;
 }
 
 #pagina1{
-    background-color: blueviolet;
+    background-color: blueviolet; 
     width: auto;
     height: 800px;
     display: block;
