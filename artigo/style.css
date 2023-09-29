@@ -88,6 +88,17 @@ main {
     min-height: 100vh;
 }
 
+
+#nome {
+    color: white;
+    margin-left: 520px;
+}
+
+#nome2{
+    color: white;
+    margin-left: 615px;
+}
+
 .container_pag1{
     background-color: blueviolet;
     margin: 14px;
